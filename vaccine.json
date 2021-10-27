@@ -1,42 +1,49 @@
 [
     {
-        "Product name":"PfizerBioNTech COVID-19 Vaccine",
+        "ProductName":"PfizerBioNTech COVID-19 Vaccine",
         "Manufacturing":"BioNTech",
         "MainIngredient":"每劑含有 30mcg 新型冠狀病毒 (SARS- CoV-2) mRNA",
         "TypesOfVaccines":"mRNA",
         "SuitableAge":"12 歲以上",
-        "接種劑次":2,
-        "接種間隔":"至少 21 天",
-        "冷儲條件1":"-60 至 -80°C 超低溫冷凍保存。'",
-        "冷儲條件2":"若轉置到2~8°C 冷 藏設備，必須於5 天(120小時)內使 用完畢。"},
+        "TimesNeed":2,
+        "TimeInterval":"至少 21 天",
+        "ColdStored1":"-60 至 -80°C 超低溫冷凍保存。'",
+        "ColdStored2":"若轉置到2~8°C 冷 藏設備，必須於5 天(120小時)內使 用完畢。"
+    },
+
     {
-        "Product name":"阿斯特捷利康 ( AstraZeneca) COVID-19 疫苗",
+        "ProductName":"阿斯特捷利康 ( AstraZeneca) COVID-19 疫苗",
         "Manufacturing":"AstraZeneca",
         "MainIngredient":"每劑含有 ChAdOx1-S* recombinant(腺病毒重組 DNA 載體) 5*1010 viral particle",
         "TypesOfVaccines":"Viral DNA vector",
         "SuitableAge":"18 歲以上",
-        "接種劑次":2,
-        "接種間隔":"8 至 12 週",
-        "冷儲條件1":"2 ~8°C 冷藏儲存。",
-        "冷儲條件2":""},
+        "TimesNeed":2,
+        "TimeInterval":"8 至 12 週",
+        "ColdStored1":"2 ~8°C 冷藏儲存。",
+        "ColdStored2":""
+    },
+
     {
-        "Product name":"莫德納 ( Moderna ) COVID-19 疫苗",
+        "ProductName":"莫德納 ( Moderna ) COVID-19 疫苗",
         "Manufacturing":"Moderna",
         "MainIngredient":"每劑含有 100 mcg 之新型冠狀 病毒(SARS- CoV-2) mRNA",
         "TypesOfVaccines":"mRNA",
         "SuitableAge":"12 歲以上",
-        "接種劑次":2,
-        "接種間隔":"至少 28 天",
-        "冷儲條件1":"-25~-15°C 冷凍保 存 ， 不 得低於 -40°C 且不得使用 乾冰冷運冷儲；",
-        "冷儲條件2":"若轉置到 2~8°C 冷藏設備，必須標 註轉置後之效期 (+28 天)，並於效 期內使用完畢。"},
+        "TimesNeed":2,
+        "TimeInterval":"至少 28 天",
+        "ColdStored1":"-25~-15°C 冷凍保 存 ， 不 得低於 -40°C 且不得使用 乾冰冷運冷儲；",
+        "ColdStored2":"若轉置到 2~8°C 冷藏設備，必須標 註轉置後之效期 (+28 天)，並於效 期內使用完畢。"
+    },
+
     {
-        "Product name":"高端新冠肺炎疫苗 (MVC COVID-19 Vaccine)",
+        "ProductName":"高端新冠肺炎疫苗 (MVC COVID-19 Vaccine)",
         "Manufacturing":"高端 (Medigen) 疫苗生物製 劑(股)公司",
         "MainIngredient":"每劑含有 15 μg SARS-COV-2 重組棘蛋白",
         "TypesOfVaccines":"蛋白質次 單元疫苗",
         "SuitableAge":"20 歲以上",
-        "接種劑次":2,
-        "接種間隔":"至少 28 天",
-        "冷儲條件1":"2 ~8°C 冷藏儲存。",
-        "冷儲條件2":""}
+        "TimesNeed":2,
+        "TimeInterval":"至少 28 天",
+        "ColdStored1":"2 ~8°C 冷藏儲存。",
+        "ColdStored2":""
+    }
 ]
